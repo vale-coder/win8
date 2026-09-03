@@ -1,0 +1,108 @@
+===== WINDOWS 8 TASKBAR ANALYSIS =====
+===== TASKBAR REGISTRY =====
+
+===== HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects2 =====
+
+
+Settings     : {40, 0, 0, 0...}
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer
+               \StuckRects2
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer
+PSChildName  : StuckRects2
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+
+===== HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced =====
+
+
+Start_SearchFiles   : 2
+ServerAdminUI       : 0
+Hidden              : 2
+ShowCompColor       : 1
+HideFileExt         : 1
+DontPrettyPath      : 0
+ShowInfoTip         : 1
+HideIcons           : 0
+MapNetDrvBtn        : 0
+WebView             : 1
+Filter              : 0
+ShowSuperHidden     : 0
+SeparateProcess     : 0
+AutoCheckSelect     : 0
+IconsOnly           : 0
+ShowTypeOverlay     : 1
+ShowStatusBar       : 1
+ListviewAlphaSelect : 1
+ListviewShadow      : 1
+TaskbarAnimations   : 1
+StartMenuInit       : 5
+ReindexedProfile    : 1
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\E
+                      xplorer\Advanced
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\E
+                      xplorer
+PSChildName         : Advanced
+PSDrive             : HKCU
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+
+
+
+
+===== HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband =====
+
+
+FavoritesResolve : {148, 2, 0, 0...}
+Favorites        : {0, 62, 1, 0...}
+FavoritesChanges : 10
+FavoritesVersion : 2
+PSPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Expl
+                   orer\Taskband
+PSParentPath     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Expl
+                   orer
+PSChildName      : Taskband
+PSDrive          : HKCU
+PSProvider       : Microsoft.PowerShell.Core\Registry
+
+
+
+
+
+===== HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Streams =====
+
+
+===== HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Streams\Desktop =====
+
+
+TaskbarWinXP : {12, 0, 0, 0...}
+Upgrade      : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer
+               \Streams\Desktop
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer
+               \Streams
+PSChildName  : Desktop
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+===== TASKBAR PROCESS =====
+
+
+Id           : 1104
+ProcessName  : explorer
+WorkingSet64 : 90497024
+Handles      : 1431
+Threads      : {1108, 1132, 1136, 1148...}
+
+
+
+
+===== SHELL FOLDERS =====
+
+===== END =====
