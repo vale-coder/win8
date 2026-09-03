@@ -1,0 +1,115 @@
+===== WINDOWS 8 SHELL ANALYSIS =====
+===== KEY MODULES =====
+
+===== explorer.exe =====
+PATH: C:\Windows\explorer.exe
+SIZE: 2380440
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: Esplora risorse
+COMPANY: Microsoft Corporation
+
+===== shell32.dll =====
+PATH: C:\Windows\System32\shell32.dll
+SIZE: 19779584
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: DLL comune della shell di Windows
+COMPANY: Microsoft Corporation
+
+===== ExplorerFrame.dll =====
+PATH: C:\Windows\System32\ExplorerFrame.dll
+SIZE: 2978304
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: ExplorerFrame
+COMPANY: Microsoft Corporation
+
+===== imageres.dll =====
+PATH: C:\Windows\System32\imageres.dll
+SIZE: 67967488
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: Windows Image Resource
+COMPANY: Microsoft Corporation
+
+===== shellstyle.dll =====
+PATH: C:\Windows\System32\shellstyle.dll
+SIZE: 517120
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: Windows Shell Style Resource Dll
+COMPANY: Microsoft Corporation
+
+===== uxtheme.dll =====
+PATH: C:\Windows\System32\uxtheme.dll
+SIZE: 908288
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: Libreria UxTheme di Microsoft
+COMPANY: Microsoft Corporation
+
+===== DUI70.dll =====
+PATH: C:\Windows\System32\DUI70.dll
+SIZE: 1789952
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: Motore DirectUI Windows
+COMPANY: Microsoft Corporation
+
+===== DUser.dll =====
+PATH: C:\Windows\System32\DUser.dll
+SIZE: 730624
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: Windows DirectUser Engine
+COMPANY: Microsoft Corporation
+
+===== twinui.dll =====
+PATH: C:\Windows\System32\twinui.dll
+SIZE: 10092032
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: TWINUI
+COMPANY: Microsoft Corporation
+
+===== twinapi.dll =====
+PATH: C:\Windows\System32\twinapi.dll
+SIZE: 699392
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: twinapi
+COMPANY: Microsoft Corporation
+
+===== AltTab.dll =====
+PATH: C:\Windows\System32\AltTab.dll
+SIZE: 87552
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: DLL AltTab della shell di Windows
+COMPANY: Microsoft Corporation
+
+===== Actioncenter.dll =====
+PATH: C:\Windows\System32\Actioncenter.dll
+SIZE: 875520
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: Centro operativo
+COMPANY: Microsoft Corporation
+
+===== NetworkExplorer.dll =====
+PATH: C:\Windows\System32\NetworkExplorer.dll
+SIZE: 1672192
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: Esplora rete
+COMPANY: Microsoft Corporation
+
+===== SearchFolder.dll =====
+PATH: C:\Windows\System32\SearchFolder.dll
+SIZE: 909312
+VERSION: 6.2.9200.16384 (win8_rtm.120725-1247)
+DESCRIPTION: SearchFolder
+COMPANY: Microsoft Corporation
+===== EXPLORER PROCESS =====
+
+
+Id           : 1104
+ProcessName  : explorer
+Path         : C:\Windows\Explorer.EXE
+CPU          : 4.453125
+Handles      : 1437
+Threads      : {1108, 1132, 1136, 1148...}
+WorkingSet64 : 90501120
+
+
+
+
+===== END =====
