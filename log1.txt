@@ -1,0 +1,1316 @@
+===== WINDOWS 8 SHELL LAB =====
+
+===== WINDOWS VERSION =====
+
+
+Caption        : Microsoft Windows 8 Pro
+Version        : 6.2.9200
+BuildNumber    : 9200
+OSArchitecture : 64 bit
+
+
+
+
+
+===== EXPLORER.EXE =====
+
+
+FullName       : C:\Windows\explorer.exe
+Length         : 2380440
+CreationTime   : 7/26/2012 1:14:17 AM
+LastWriteTime  : 7/26/2012 6:49:13 AM
+FileVersion    : 6.2.9200.16384 (win8_rtm.120725-1247)
+ProductVersion : 6.2.9200.16384
+Company        : Microsoft Corporation
+
+
+
+
+
+===== SHELL DLL =====
+
+Name                                         Length
+----                                         ------
+comctl32.dll                                 652288
+EhStorShell.dll                              202240
+ExplorerFrame.dll                           2978304
+imageres.dll                               67967488
+netshell.dll                                2826240
+networkexplorer.dll                         1672192
+propsys.dll                                 1400832
+shell32.dll                                19779584
+shellstyle.dll                               517120
+shlwapi.dll                                  309760
+srmshell.dll                                 172032
+uxtheme.dll                                  908288
+windows.immersiveshell.serviceprovider.dll    69632
+wmpshell.dll                                 280064
+
+
+
+
+===== EXPLORER PROCESS =====
+
+
+Id          : 1104
+ProcessName : explorer
+Path        : C:\Windows\Explorer.EXE
+StartTime   : 9/3/2026 11:26:58 AM
+
+
+
+
+
+===== EXPLORER REGISTRY =====
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer
+    ExplorerStartupTraceRecorded    REG_DWORD    0x1
+    ShellState    REG_BINARY    240000003428000000000000000000000000000001000000130000000000000062000000
+    SIDUpdatedOnLibraries    REG_DWORD    0x1
+    LastClockSize    REG_BINARY    3D0000000F0000003A0000000F000000490000000F000000
+    Browse For Folder Width    REG_DWORD    0x13e
+    Browse For Folder Height    REG_DWORD    0x15a
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+    Start_SearchFiles    REG_DWORD    0x2
+    ServerAdminUI    REG_DWORD    0x0
+    Hidden    REG_DWORD    0x2
+    ShowCompColor    REG_DWORD    0x1
+    HideFileExt    REG_DWORD    0x1
+    DontPrettyPath    REG_DWORD    0x0
+    ShowInfoTip    REG_DWORD    0x1
+    HideIcons    REG_DWORD    0x0
+    MapNetDrvBtn    REG_DWORD    0x0
+    WebView    REG_DWORD    0x1
+    Filter    REG_DWORD    0x0
+    ShowSuperHidden    REG_DWORD    0x0
+    SeparateProcess    REG_DWORD    0x0
+    AutoCheckSelect    REG_DWORD    0x0
+    IconsOnly    REG_DWORD    0x0
+    ShowTypeOverlay    REG_DWORD    0x1
+    ShowStatusBar    REG_DWORD    0x1
+    ListviewAlphaSelect    REG_DWORD    0x1
+    ListviewShadow    REG_DWORD    0x1
+    TaskbarAnimations    REG_DWORD    0x1
+    StartMenuInit    REG_DWORD    0x5
+    ReindexedProfile    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AppContract
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AppContract\Windows.Protocol
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AppContract\Windows.Search
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers
+    DisableAutoplay    REG_DWORD    0x0
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlers
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlers\CameraMemoryOnArrival
+    0v81b9gd9p5k15qaqkdmrmw9zmmw8rwntqpkpss8xkngrwpnty90!content!storagedevice    REG_SZ    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlers\PlayVideoFilesOnArrival
+    0v81b9gd9p5k15qaqkdmrmw9zmmw8rwntqpkpss8xkngrwpnty90!content!storagedevicewithvideos    REG_SZ    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlers\ShowPicturesOnArrival
+    0v81b9gd9p5k15qaqkdmrmw9zmmw8rwntqpkpss8xkngrwpnty90!content!storagedevicewithphotos    REG_SZ    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlers\WPD
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlers\WPD\ImageSource
+    0v81b9gd9p5k15qaqkdmrmw9zmmw8rwntqpkpss8xkngrwpnty90!device!wpdimage    REG_SZ    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlers\WPD\VideoSource
+    0v81b9gd9p5k15qaqkdmrmw9zmmw8rwntqpkpss8xkngrwpnty90!device!wpdvideo    REG_SZ    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlersDefaultSelection
+    (Predefinito)    REG_SZ    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\Handlers
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\Handlers\0v81b9gd9p5k15qaqkdmrmw9zmmw8rwntqpkpss8xkngrwpnty90!content!storagedevice
+    Immersive    REG_DWORD    0x1
+    Action    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/photo/residAutoplayDisplayText}
+    Provider    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/photo/residAppName}
+    DefaultIcon    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/Files/ModernPhoto/Images/smalllogo.png}
+    AppUserModelID    REG_SZ    microsoft.windowsphotos_8wekyb3d8bbwe!Microsoft.WindowsLive.ModernPhotos
+    InvokeProgID    REG_SZ    AppXhtz0x5bkej0nngnhm76pardbgwg3m7yt
+    InvokeVerb    REG_SZ    storageDevice
+    PackageId    REG_SZ    microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\Handlers\0v81b9gd9p5k15qaqkdmrmw9zmmw8rwntqpkpss8xkngrwpnty90!content!storagedevicewithphotos
+    Immersive    REG_DWORD    0x1
+    Action    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/photo/residAutoplayDisplayText}
+    Provider    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/photo/residAppName}
+    DefaultIcon    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/Files/ModernPhoto/Images/smalllogo.png}
+    AppUserModelID    REG_SZ    microsoft.windowsphotos_8wekyb3d8bbwe!Microsoft.WindowsLive.ModernPhotos
+    InvokeProgID    REG_SZ    AppXv66krmae7r8ab7s5qqf0gh1nq5qqfwg8
+    InvokeVerb    REG_SZ    storageDeviceWithPhotos
+    PackageId    REG_SZ    microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\Handlers\0v81b9gd9p5k15qaqkdmrmw9zmmw8rwntqpkpss8xkngrwpnty90!content!storagedevicewithvideos
+    Immersive    REG_DWORD    0x1
+    Action    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/photo/residAutoplayDisplayText}
+    Provider    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/photo/residAppName}
+    DefaultIcon    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/Files/ModernPhoto/Images/smalllogo.png}
+    AppUserModelID    REG_SZ    microsoft.windowsphotos_8wekyb3d8bbwe!Microsoft.WindowsLive.ModernPhotos
+    InvokeProgID    REG_SZ    AppXy6h88feq9w9yc8pck1356yvsf0f676y9
+    InvokeVerb    REG_SZ    storageDeviceWithVideos
+    PackageId    REG_SZ    microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\Handlers\0v81b9gd9p5k15qaqkdmrmw9zmmw8rwntqpkpss8xkngrwpnty90!device!wpdimage
+    Immersive    REG_DWORD    0x1
+    Action    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/photo/residAutoplayDisplayText}
+    Provider    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/photo/residAppName}
+    DefaultIcon    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/Files/ModernPhoto/Images/smalllogo.png}
+    AppUserModelID    REG_SZ    microsoft.windowsphotos_8wekyb3d8bbwe!Microsoft.WindowsLive.ModernPhotos
+    ExtensionID    REG_SZ    microsoft.windowsphotos_8wekyb3d8bbwe:Microsoft.WindowsLive.ModernPhotos.wwa
+    Verb    REG_EXPAND_SZ    wpdImage
+    PackageId    REG_SZ    microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\Handlers\0v81b9gd9p5k15qaqkdmrmw9zmmw8rwntqpkpss8xkngrwpnty90!device!wpdvideo
+    Immersive    REG_DWORD    0x1
+    Action    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/photo/residAutoplayDisplayText}
+    Provider    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/photo/residAppName}
+    DefaultIcon    REG_EXPAND_SZ    @{microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsphotos/Files/ModernPhoto/Images/smalllogo.png}
+    AppUserModelID    REG_SZ    microsoft.windowsphotos_8wekyb3d8bbwe!Microsoft.WindowsLive.ModernPhotos
+    ExtensionID    REG_SZ    microsoft.windowsphotos_8wekyb3d8bbwe:Microsoft.WindowsLive.ModernPhotos.wwa
+    Verb    REG_EXPAND_SZ    wpdVideo
+    PackageId    REG_SZ    microsoft.windowsphotos_16.4.4204.712_x64__8wekyb3d8bbwe
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\UserChosenExecuteHandlers
+    (Predefinito)    REG_SZ    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket
+    LastEnum    REG_MULTI_SZ    0,{76b0dbbb-64b5-457c-8384-2c02cd828911}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{76b0dbbb-64b5-457c-8384-2c02cd828911}
+    MaxCapacity    REG_DWORD    0xfca
+    NukeOnDelete    REG_DWORD    0x0
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CabinetState
+    Settings    REG_BINARY    0C0002000A01000060000000
+    FullPath    REG_DWORD    0x0
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CD Burning
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CD Burning\Drives
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CD Burning\Drives\Volume{e7011a08-a7c0-11f1-be66-806e6f6e6963}
+    Drive Type    REG_DWORD    0x1
+    IsImapiDataBurnSupported    REG_DWORD    0x0
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CD Burning\Drives\Volume{e7011a08-a7c0-11f1-be66-806e6f6e6963}\Current Media
+    TotalBytes    REG_BINARY    00382A0300000000
+    FreeBytes    REG_BINARY    0000000000000000
+    Blank Disc    REG_DWORD    0x0
+    Can Close    REG_DWORD    0x0
+    Live FS    REG_DWORD    0x0
+    Disc Label    REG_SZ    VBox_GAs_7.2.16
+    Set    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CD Burning\StagingInfo
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CD Burning\StagingInfo\Volume{e7011a08-a7c0-11f1-be66-806e6f6e6963}
+    StagingPath    REG_SZ    C:\Users\pigeon\AppData\Local\Microsoft\Windows\Burn\Burn
+    Active    REG_DWORD    0x1
+    DriveNumber    REG_DWORD    0x3
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon
+    (Predefinito)    REG_SZ    C:\Windows\System32\imageres.dll,-109
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon
+    (Predefinito)    REG_SZ    C:\Windows\System32\imageres.dll,-123
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon
+    empty    REG_EXPAND_SZ    %SystemRoot%\System32\imageres.dll,-55
+    full    REG_EXPAND_SZ    %SystemRoot%\System32\imageres.dll,-54
+    (Predefinito)    REG_EXPAND_SZ    %SystemRoot%\System32\imageres.dll,-55
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{871C5380-42A0-1069-A2EA-08002B30309D}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{871C5380-42A0-1069-A2EA-08002B30309D}\ShellFolder
+    Attributes    REG_DWORD    0x100000
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon
+    (Predefinito)    REG_SZ    C:\Windows\System32\imageres.dll,-25
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories\{00021493-0000-0000-C000-000000000046}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories\{00021493-0000-0000-C000-000000000046}\Enum
+    Implementing    REG_BINARY    000000000000000000000000000000000000000000000000000000000000
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories\{00021494-0000-0000-C000-000000000046}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories\{00021494-0000-0000-C000-000000000046}\Enum
+    Implementing    REG_BINARY    000000000000000000000000000000000000000000000000000000000000
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories64
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories64\{00021493-0000-0000-C000-000000000046}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories64\{00021493-0000-0000-C000-000000000046}\Enum
+    Implementing    REG_BINARY    1C00000001000000EA070900040003000900080011007F00020000000124D030816AD011827400C04FD5AE38644EA2EF78B0D01189E400C04FC9E26E
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories64\{00021494-0000-0000-C000-000000000046}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\Component Categories64\{00021494-0000-0000-C000-000000000046}\Enum
+    Implementing    REG_BINARY    1C00000001000000EA070900040003000900080011009E0000000000
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Discardable\PostSetup\ShellNew
+    Classes    REG_MULTI_SZ    .bmp\0.contact\0.jnt\0.library-ms\0.lnk\0.rtf\0.txt\0.zip\0Folder
+    ~reserved~    REG_BINARY    0800000000000600
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3g2
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3g2\OpenWithProgids
+    WMP11.AssocFile.3G2    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3g2\UserChoice
+    Hash    REG_SZ    b5gY3fwsWA8=
+    ProgId    REG_SZ    AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3gp
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3gp\OpenWithProgids
+    WMP11.AssocFile.3GP    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3gp\UserChoice
+    Hash    REG_SZ    ousXvRH5AAA=
+    ProgId    REG_SZ    AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3gp2
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3gp2\OpenWithProgids
+    WMP11.AssocFile.3G2    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3gp2\UserChoice
+    Hash    REG_SZ    R5l2NsM0vqY=
+    ProgId    REG_SZ    WMP11.AssocFile.3G2
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3gpp
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3gpp\OpenWithProgids
+    WMP11.AssocFile.3GP    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.3gpp\UserChoice
+    Hash    REG_SZ    EIJmVWZ9urQ=
+    ProgId    REG_SZ    AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.aac
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.aac\OpenWithProgids
+    WMP11.AssocFile.ADTS    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.aac\UserChoice
+    Hash    REG_SZ    shR1HyuIQzk=
+    ProgId    REG_SZ    AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.adt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.adt\OpenWithProgids
+    WMP11.AssocFile.ADTS    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.adt\UserChoice
+    Hash    REG_SZ    mjJf4ScssKo=
+    ProgId    REG_SZ    WMP11.AssocFile.ADTS
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.adts
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.adts\OpenWithProgids
+    WMP11.AssocFile.ADTS    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.adts\UserChoice
+    Hash    REG_SZ    ciqgmREtXIU=
+    ProgId    REG_SZ    WMP11.AssocFile.ADTS
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.AIF
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.AIF\OpenWithProgids
+    WMP11.AssocFile.AIFF    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.AIFC
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.AIFC\OpenWithProgids
+    WMP11.AssocFile.AIFF    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.AIFF
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.AIFF\OpenWithProgids
+    WMP11.AssocFile.AIFF    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ASF
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ASF\OpenWithProgids
+    WMP11.AssocFile.ASF    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ASX
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ASX\OpenWithProgids
+    WMP11.AssocFile.ASX    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.AU
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.AU\OpenWithProgids
+    WMP11.AssocFile.AU    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.avi
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.avi\OpenWithProgids
+    WMP11.AssocFile.AVI    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.avi\UserChoice
+    Hash    REG_SZ    dpZsHQ3X4Hk=
+    ProgId    REG_SZ    AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.bmp
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.bmp\OpenWithProgids
+    Paint.Picture    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.bmp\UserChoice
+    Hash    REG_SZ    vSVJoSvYHYQ=
+    ProgId    REG_SZ    AppX9vdwcvrwnbettpahnt26jswq0n8hgyah
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cab
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cab\OpenWithProgids
+    CABFolder    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cdxml
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cdxml\OpenWithProgids
+    Microsoft.PowerShellCmdletDefinitionXML.1    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.contact
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.contact\OpenWithProgids
+    contact_wab_auto_file    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.css
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.css\OpenWithProgids
+    CSSfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dib
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dib\OpenWithProgids
+    Paint.Picture    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dib\UserChoice
+    Hash    REG_SZ    WXCGqhRFP4o=
+    ProgId    REG_SZ    AppX9vdwcvrwnbettpahnt26jswq0n8hgyah
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dll
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dll\OpenWithProgids
+    dllfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.docx
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.docx\OpenWithProgids
+    docxfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dwfx
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dwfx\OpenWithProgids
+    Windows.XPSReachViewer    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.easmx
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.easmx\OpenWithProgids
+    Windows.XPSReachViewer    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.edrwx
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.edrwx\OpenWithProgids
+    Windows.XPSReachViewer    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.emf
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.emf\OpenWithProgids
+    emffile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.eprtx
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.eprtx\OpenWithProgids
+    Windows.XPSReachViewer    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.exe
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.exe\OpenWithProgids
+    exefile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.fon
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.fon\OpenWithProgids
+    fonfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.gif
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.gif\OpenWithProgids
+    giffile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.gif\UserChoice
+    Hash    REG_SZ    N3uc10oyQKY=
+    ProgId    REG_SZ    AppX9vdwcvrwnbettpahnt26jswq0n8hgyah
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.htm
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.htm\OpenWithProgids
+    htmlfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.html
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.html\OpenWithProgids
+    htmlfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ico
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ico\OpenWithProgids
+    icofile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ini
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ini\OpenWithProgids
+    inifile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jfif
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jfif\OpenWithProgids
+    pjpegfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jfif\UserChoice
+    Hash    REG_SZ    36jm2Q5nEAU=
+    ProgId    REG_SZ    AppX9vdwcvrwnbettpahnt26jswq0n8hgyah
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jpe
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jpe\OpenWithProgids
+    jpegfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jpe\UserChoice
+    Hash    REG_SZ    GrSrn4v5R3o=
+    ProgId    REG_SZ    AppX9vdwcvrwnbettpahnt26jswq0n8hgyah
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jpeg
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jpeg\OpenWithProgids
+    jpegfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jpeg\UserChoice
+    Hash    REG_SZ    3+MquELeFkw=
+    ProgId    REG_SZ    AppX9vdwcvrwnbettpahnt26jswq0n8hgyah
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jpg
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jpg\OpenWithProgids
+    jpegfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jpg\UserChoice
+    Hash    REG_SZ    iDci0y/tzfw=
+    ProgId    REG_SZ    AppX9vdwcvrwnbettpahnt26jswq0n8hgyah
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jtx
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jtx\OpenWithProgids
+    Windows.XPSReachViewer    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jxr
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jxr\OpenWithProgids
+    wdpfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.lnk
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.lnk\OpenWithProgids
+    lnkfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.M1V
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.M1V\OpenWithProgids
+    WMP11.AssocFile.MPEG    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m2t
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m2t\OpenWithProgids
+    WMP11.AssocFile.M2TS    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m2ts
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m2ts\OpenWithProgids
+    WMP11.AssocFile.M2TS    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.M2V
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.M2V\OpenWithProgids
+    WMP11.AssocFile.MPEG    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m3u
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m3u\OpenWithProgids
+    WMP11.AssocFile.m3u    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m4a
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m4a\OpenWithProgids
+    WMP11.AssocFile.M4A    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m4a\UserChoice
+    Hash    REG_SZ    VPrz8WJFaNE=
+    ProgId    REG_SZ    AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m4v
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m4v\OpenWithProgids
+    WMP11.AssocFile.MP4    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.m4v\UserChoice
+    Hash    REG_SZ    GzAznpsp7Es=
+    ProgId    REG_SZ    AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mht
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mht\OpenWithProgids
+    mhtmlfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mhtml
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mhtml\OpenWithProgids
+    mhtmlfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MID
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MID\OpenWithProgids
+    WMP11.AssocFile.MIDI    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MIDI
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MIDI\OpenWithProgids
+    WMP11.AssocFile.MIDI    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mod
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mod\OpenWithProgids
+    WMP11.AssocFile.MPEG    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mov
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mov\OpenWithProgids
+    WMP11.AssocFile.MOV    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mov\UserChoice
+    Hash    REG_SZ    dmvDAQ6aT8I=
+    ProgId    REG_SZ    AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MP2
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MP2\OpenWithProgids
+    WMP11.AssocFile.MP3    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MP2\UserChoice
+    Hash    REG_SZ    bBex/QOTgqA=
+    ProgId    REG_SZ    WMP11.AssocFile.MP3
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MP2V
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MP2V\OpenWithProgids
+    WMP11.AssocFile.MPEG    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mp3
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mp3\OpenWithProgids
+    WMP11.AssocFile.MP3    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mp3\UserChoice
+    Hash    REG_SZ    N/A6/uzkoP4=
+    ProgId    REG_SZ    AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mp4
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mp4\OpenWithProgids
+    WMP11.AssocFile.MP4    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mp4\UserChoice
+    Hash    REG_SZ    zdjNEXcqcL8=
+    ProgId    REG_SZ    AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mp4v
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mp4v\OpenWithProgids
+    WMP11.AssocFile.MP4    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mp4v\UserChoice
+    Hash    REG_SZ    DYiarh1O+bE=
+    ProgId    REG_SZ    AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mpa
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mpa\OpenWithProgids
+    WMP11.AssocFile.MPEG    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mpa\UserChoice
+    Hash    REG_SZ    ppdTqxbvtzo=
+    ProgId    REG_SZ    WMP11.AssocFile.MPEG
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MPE
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MPE\OpenWithProgids
+    WMP11.AssocFile.MPEG    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.MPE\UserChoice
+    Hash    REG_SZ    LDUFDba3rVA=
+    ProgId    REG_SZ    WMP11.AssocFile.MPEG
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mpeg
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mpeg\OpenWithProgids
+    WMP11.AssocFile.MPEG    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mpeg\UserChoice
+    Hash    REG_SZ    12ddAMyvVvM=
+    ProgId    REG_SZ    WMP11.AssocFile.MPEG
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mpg
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mpg\OpenWithProgids
+    WMP11.AssocFile.MPEG    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mpg\UserChoice
+    Hash    REG_SZ    989WZS0klZE=
+    ProgId    REG_SZ    WMP11.AssocFile.MPEG
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mpv2
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mpv2\OpenWithProgids
+    WMP11.AssocFile.MPEG    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mts
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mts\OpenWithProgids
+    WMP11.AssocFile.M2TS    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mts\UserChoice
+    Hash    REG_SZ    p0NHOpie5Ng=
+    ProgId    REG_SZ    WMP11.AssocFile.M2TS
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ocx
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ocx\OpenWithProgids
+    ocxfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.odt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.odt\OpenWithProgids
+    odtfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.otf
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.otf\OpenWithProgids
+    otffile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.oxps
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.oxps\OpenWithProgids
+    Windows.XPSReachViewer    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.oxps\UserChoice
+    Hash    REG_SZ    GSXumN6qMPA=
+    ProgId    REG_SZ    AppX86746z2101ayy2ygv3g96e4eqdf8r99j
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pdf
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pdf\UserChoice
+    Hash    REG_SZ    XmLVKBTJWR0=
+    ProgId    REG_SZ    AppX86746z2101ayy2ygv3g96e4eqdf8r99j
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.png
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.png\OpenWithProgids
+    pngfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.png\UserChoice
+    Hash    REG_SZ    S7Jw6Ct69ms=
+    ProgId    REG_SZ    AppX9vdwcvrwnbettpahnt26jswq0n8hgyah
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ps1xml
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ps1xml\OpenWithProgids
+    Microsoft.PowerShellXMLData.1    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pssc
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pssc\OpenWithProgids
+    Microsoft.PowerShellSessionConfiguration.1    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.rle
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.rle\OpenWithProgids
+    rlefile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.RMI
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.RMI\OpenWithProgids
+    WMP11.AssocFile.MIDI    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.rtf
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.rtf\OpenWithProgids
+    rtffile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.scf
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.scf\OpenWithProgids
+    SHCmdFile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.search-ms
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.search-ms\OpenWithProgids
+    SearchFolder    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.shtml
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.shtml\OpenWithProgids
+    shtmlfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.SND
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.SND\OpenWithProgids
+    WMP11.AssocFile.AU    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.sys
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.sys\OpenWithProgids
+    sysfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.tif
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.tif\OpenWithProgids
+    TIFImage.Document    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.tif\UserChoice
+    Hash    REG_SZ    ZynRVSmkYhU=
+    ProgId    REG_SZ    AppX9vdwcvrwnbettpahnt26jswq0n8hgyah
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.tiff
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.tiff\OpenWithProgids
+    TIFImage.Document    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.tiff\UserChoice
+    Hash    REG_SZ    ITJzI/WpTng=
+    ProgId    REG_SZ    AppX9vdwcvrwnbettpahnt26jswq0n8hgyah
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.TS
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.TS\OpenWithProgids
+    WMP11.AssocFile.TTS    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.TS\UserChoice
+    Hash    REG_SZ    XvB5tVVidfI=
+    ProgId    REG_SZ    WMP11.AssocFile.TTS
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ttc
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ttc\OpenWithProgids
+    ttcfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ttf
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.ttf\OpenWithProgids
+    ttffile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.TTS
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.TTS\OpenWithProgids
+    WMP11.AssocFile.TTS    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.TTS\UserChoice
+    Hash    REG_SZ    z5keG3QjE2k=
+    ProgId    REG_SZ    WMP11.AssocFile.TTS
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.txt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.txt\OpenWithProgids
+    txtfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wav
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wav\OpenWithProgids
+    WMP11.AssocFile.WAV    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wav\UserChoice
+    Hash    REG_SZ    bR1WZeRv/dY=
+    ProgId    REG_SZ    AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.WAX
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.WAX\OpenWithProgids
+    WMP11.AssocFile.WAX    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wdp
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wdp\OpenWithProgids
+    wdpfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wdp\UserChoice
+    Hash    REG_SZ    am4NjZo6898=
+    ProgId    REG_SZ    AppX9vdwcvrwnbettpahnt26jswq0n8hgyah
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wm
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wm\OpenWithProgids
+    WMP11.AssocFile.ASF    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wm\UserChoice
+    Hash    REG_SZ    fpoqAIT9f8Y=
+    ProgId    REG_SZ    AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wma
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wma\OpenWithProgids
+    WMP11.AssocFile.WMA    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wma\UserChoice
+    Hash    REG_SZ    p3BejMWqOyo=
+    ProgId    REG_SZ    AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wmf
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wmf\OpenWithProgids
+    wmffile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wmv
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wmv\OpenWithProgids
+    WMP11.AssocFile.WMV    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wmv\UserChoice
+    Hash    REG_SZ    jdrDEyHkIic=
+    ProgId    REG_SZ    AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.WMX
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.WMX\OpenWithProgids
+    WMP11.AssocFile.ASX    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.WPL
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.WPL\OpenWithProgids
+    WMP11.AssocFile.WPL    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.WPL\UserChoice
+    Hash    REG_SZ    3J/8hR3SL4Y=
+    ProgId    REG_SZ    WMP11.AssocFile.WPL
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.WVX
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.WVX\OpenWithProgids
+    WMP11.AssocFile.WVX    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xml
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xml\OpenWithProgids
+    xmlfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xps
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xps\OpenWithProgids
+    Windows.XPSReachViewer    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xps\UserChoice
+    Hash    REG_SZ    AOT2Trbxe28=
+    ProgId    REG_SZ    AppX86746z2101ayy2ygv3g96e4eqdf8r99j
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xsl
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xsl\OpenWithProgids
+    xslfile    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.zip
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.zip\OpenWithProgids
+    CompressedFolder    REG_NONE    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\LowRegistry
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Favorites
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Modules
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Modules\CommonPlaces
+    Order    REG_BINARY    08000000020000008C0400000100000006000000C200000000000000B40073002200434653461C003200760100002835F6AA2000444F43554D457E312E4C4E4B00000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD9386C0007000400EFBE1E3572A91E3572A926000000DCA80000000003000000000000000000420044006F00630075006D0065006E00740073002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003200310037003700300000004800000000000000B600000002000000A80073001E0043465346180032006A0100002835F6AA20004D757369632E6C6E6B000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD938640007000400EFBE1E3571A91E3571A926000000DAA800000000030000000000000000003A004D0075007300690063002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003200310037003900300000004400000000000000C000000001000000B20073002200434653461C003200730100002835F6AA200050696374757265732E6C6E6B00000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD9386A0007000400EFBE1E3571A91E3571A926000000DBA800000000030000000000000000004000500069006300740075007200650073002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003200310037003700390000004800000000000000BA00000005000000AC0073002000434653461A0032003C0100002835F6AA20005075626C69632E6C6E6B00000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD938660007000400EFBE2835F6AA2835F6AA26000000B5B300000000080000000000000000003C005000750062006C00690063002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003200310038003100360000004600000000000000D000000003000000C20073002200434653461C003200560200002835F6AA2000524543454E547E312E4C4E4B00000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD9387A0007000400EFBE1E3571A91E3571A926000000D9A80000000003000000000000000000500052006500630065006E0074006C00790020004300680061006E006700650064002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003300320038003100330000004800000000000000BE00000004000000B00073002200434653461C003200630100002835F6AA200053656172636865732E6C6E6B00000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD938680007000400EFBE1E3571A91E3571A926000000D8A800000000030000000000000000004000530065006100720063006800650073002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D00390030003300310000004800000000000000
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Modules\CommonPlaces\CFD
+    Order    REG_BINARY    08000000020000000A0700000100000009000000C200000003000000B40073002200434653461C003200760100002835F6AA2000444F43554D457E312E4C4E4B00000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD9386C0007000400EFBE1E3572A91E3572A926000000DCA80000000003000000000000000000420044006F00630075006D0065006E00740073002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003200310037003700300000004800000000000000B600000005000000A80073001E0043465346180032006A0100002835F6AA20004D757369632E6C6E6B000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD938640007000400EFBE1E3571A91E3571A926000000DAA800000000030000000000000000003A004D0075007300690063002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003200310037003900300000004400000000000000C000000004000000B20073002200434653461C003200730100002835F6AA200050696374757265732E6C6E6B00000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD9386A0007000400EFBE1E3571A91E3571A926000000DBA800000000030000000000000000004000500069006300740075007200650073002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003200310037003700390000004800000000000000BA00000008000000AC0073002000434653461A0032003C0100002835F6AA20005075626C69632E6C6E6B00000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD938660007000400EFBE2835F6AA2835F6AA26000000B5B300000000080000000000000000003C005000750062006C00690063002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003200310038003100360000004600000000000000D000000006000000C20073002200434653461C003200560200002835F6AA2000524543454E547E312E4C4E4B00000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD9387A0007000400EFBE1E3571A91E3571A926000000D9A80000000003000000000000000000500052006500630065006E0074006C00790020004300680061006E006700650064002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003300320038003100330000004800000000000000BE00000007000000B00073002200434653461C003200630100002835F6AA200053656172636865732E6C6E6B00000000741A595E96DFD3488D671733BCEE28BAA66C4AD3C262344C8A7C14709C1AD938680007000400EFBE1E3571A91E3571A926000000D8A800000000030000000000000000004000530065006100720063006800650073002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D00390030003300310000004800000000000000E200000001000000D3000000CD00DED1EC23BF00040000000000490000003153505330F125B7EF471A10A5F102608C9EEBAC2D0000000A00000000080000001C00000052006500630065006E007400200050006C0061006300650073000000000000002D00000031535053A66A63283D95D211B5D600C04FD918D0110000001A000000000300000000000020000000004500000031535053FCB3B4B9512B424AB5D8324146AFCF25290000000200000000111000001600000014001F806D7A8722A1371A4691B0DBDA5AAEBC99000000000000000000000000000000000000000000C200000000000000B3000000AD00DED1EC239F000400000000003D0000003153505330F125B7EF471A10A5F102608C9EEBAC210000000A0000000008000000100000004400650073006B0074006F0070000000000000002D00000031535053A66A63283D95D211B5D600C04FD918D0110000001A000000000300000001000020000000003100000031535053FCB3B4B9512B424AB5D8324146AFCF251500000002000000001110000002000000000000000000000000000000000000000000000000DA00000002000000CB000000C500DED1EC23B700040000000000410000003153505330F125B7EF471A10A5F102608C9EEBAC250000000A00000000080000001200000043006F006D007000750074006500720000000000000000002D00000031535053A66A63283D95D211B5D600C04FD918D0110000001A000000000300000002000020000000004500000031535053FCB3B4B9512B424AB5D8324146AFCF25290000000200000000111000001600000014001F50E04FD020EA3A6910A2D808002B30309D000000000000000000000000000000000000000000
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Modules\GlobalSettings
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Modules\GlobalSettings\ProperTreeModuleInner
+    ProperTreeModuleInner    REG_BINARY    94000000900000003153505305D5CDD59C2E1B10939708002B2CF9AE4100000030000000004E0061007600500061006E0065005F00530068006F0077004C00690062007200610072007900500061006E00650000000B000000FFFF00003300000022000000004E0061007600500061006E0065005F0046006900720073007400520075006E0000000B000000000000000000000000000000
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Modules\NavPane
+    ExpandedState    REG_BINARY    05000000160014001F8080A63C324DC29940B94D446DD2D7249E0000010000004D0000001C00000031535053A66A63283D95D211B5D600C04FD918D0000000002D00000031535053357EC777E31B5043A48C7563D727776D1100000002000000000B000000FFFF00000000000000000000160014001F4225481E03947BC34DB131E946B44C8DD50000010000004D0000001C00000031535053A66A63283D95D211B5D600C04FD918D0000000002D00000031535053357EC777E31B5043A48C7563D727776D1100000002000000000B000000FFFF00000000000000000000160014001F43983FFBB4EAC18D42A78AD1F5659CBA930000010000004D0000001C00000031535053A66A63283D95D211B5D600C04FD918D0000000002D00000031535053357EC777E31B5043A48C7563D727776D1100000002000000000B000000FFFF00000000000000000000160014001F580D1A2CF021BE504388B07367FC96EF3C0000010000004D0000001C00000031535053A66A63283D95D211B5D600C04FD918D0000000002D00000031535053357EC777E31B5043A48C7563D727776D1100000002000000000B000000000000000000000000000000160014001F50E04FD020EA3A6910A2D808002B30309D0000010000004D0000001C00000031535053A66A63283D95D211B5D600C04FD918D0000000002D00000031535053357EC777E31B5043A48C7563D727776D1100000002000000000B000000FFFF00000000000000000000
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\##VBoxSvr#win8
+    _LabelFromDesktopINI    REG_SZ    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume\{76b0dbbb-64b5-457c-8384-2c02cd828911}
+    Data    REG_BINARY    000000000DF0ADBA41000000080000000000008000000000000000300000000000000000FF00E703FF00000016000000FF4A6E980F000000044000000000000000000000000000000000000000005C005C003F005C00530054004F005200410047004500230056006F006C0075006D00650023007B00650037003000310031003900660065002D0061003700630030002D0031003100660031002D0062006500360036002D003800300036006500360066003600650036003900360033007D002300300030003000300030003000300030003200310031003000300030003000300023007B00350033006600350036003300300064002D0062003600620066002D0031003100640030002D0039003400660032002D003000300061003000630039003100650066006200380062007D000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005C005C003F005C0056006F006C0075006D0065007B00370036006200300064006200620062002D0036003400620035002D0034003500370063002D0038003300380034002D003200630030003200630064003800320038003900310031007D005C000000570069006E0064006F0077007300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004E005400460053000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000
+    Generation    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume\{e7011a08-a7c0-11f1-be66-806e6f6e6963}
+    Data    REG_BINARY    000000000DF0ADBA01000000100000000000008000000000000000300000000023000000050008016E00000010000000CEA3404A00000000000000000000000000000000000000000000000000005C005C003F005C00530043005300490023004300640052006F006D002600560065006E005F00560042004F0058002600500072006F0064005F00430044002D0052004F004D002300340026003300350035003400320036003100660026003000260030003100300030003000300023007B00350033006600350036003300300064002D0062003600620066002D0031003100640030002D0039003400660032002D003000300061003000630039003100650066006200380062007D0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005C005C003F005C0056006F006C0075006D0065007B00650037003000310031006100300038002D0061003700630030002D0031003100660031002D0062006500360036002D003800300036006500360066003600650036003900360033007D005C000000560042006F0078005F004700410073005F0037002E0032002E0031003600000000000000000000000000000000000000000000000000000000000000000000000000430044004600530000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000019000000FFFFFFFFFFFFFFFFFFFFFFFF560042006F007800570069006E0064006F00770073004100640064006900740069006F006E0073002E0065007800650000005600690072007400750061006C0042006F00780020004700750065007300740020004100640064006900740069006F006E00730000000000
+    Generation    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume\{f4baabd1-ff23-4999-960d-c1866e1ce42a}
+    Data    REG_BINARY    000000000DF0ADBA01000000080000000000008000000000000000300000000000000000FF00E703FF000000160000001A916DA20E000000040000000000000000000000000000000000000000005C005C003F005C00530054004F005200410047004500230056006F006C0075006D00650023007B00650037003000310031003900660065002D0061003700630030002D0031003100660031002D0062006500360036002D003800300036006500360066003600650036003900360033007D002300300030003000300030003000300030003000300031003000300030003000300023007B00350033006600350036003300300064002D0062003600620066002D0031003100640030002D0039003400660032002D003000300061003000630039003100650066006200380062007D000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005C005C003F005C0056006F006C0075006D0065007B00660034006200610061006200640031002D0066006600320033002D0034003900390039002D0039003600300064002D006300310038003600360065003100630065003400320061007D005C000000570049004E005200450000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004E005400460053000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000
+    Generation    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\{76b0dbbb-64b5-457c-8384-2c02cd828911}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\{e7011a08-a7c0-11f1-be66-806e6f6e6963}
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\NewShortcutHandlers
+    {FBF23B40-E3F0-101B-8488-00AA003E56F8}    REG_SZ    
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Package Installation Version
+    PackageListVersion    REG_DWORD    0x0
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+    MRUListEx    REG_BINARY    FFFFFFFF
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Ribbon
+    QatItems    REG_BINARY    3C7369713A637573746F6D554920786D6C6E733A7369713D22687474703A2F2F736368656D61732E6D6963726F736F66742E636F6D2F77696E646F77732F323030392F726962626F6E2F716174223E3C7369713A726962626F6E206D696E696D697A65643D2274727565223E3C7369713A71617420706F736974696F6E3D2230223E3C7369713A736861726564436F6E74726F6C733E3C7369713A636F6E74726F6C206964513D227369713A3136313238222076697369626C653D2266616C73652220617267756D656E743D223022202F3E3C7369713A636F6E74726F6C206964513D227369713A3136313239222076697369626C653D2266616C73652220617267756D656E743D223022202F3E3C7369713A636F6E74726F6C206964513D227369713A3132333532222076697369626C653D2266616C73652220617267756D656E743D223022202F3E3C7369713A636F6E74726F6C206964513D227369713A3132333834222076697369626C653D22747275652220617267756D656E743D223022202F3E3C7369713A636F6E74726F6C206964513D227369713A3132333336222076697369626C653D22747275652220617267756D656E743D223022202F3E3C7369713A636F6E74726F6C206964513D227369713A3132333537222076697369626C653D2266616C73652220617267756D656E743D223022202F3E3C2F7369713A736861726564436F6E74726F6C733E3C2F7369713A7161743E3C2F7369713A726962626F6E3E3C2F7369713A637573746F6D55493E
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\SearchPlatform
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\SearchPlatform\Preferences
+    DisableResultsInNewWindow    REG_DWORD    0x0
+    DisableAutoNavigateURL    REG_DWORD    0x0
+    DisableAutoResolveEmailAddrs    REG_DWORD    0x0
+    IEAddressBarSearchDefault    REG_SZ    MSNSearch
+    BreadCrumbBarSearchDefault    REG_SZ    MSNSearch
+    EditSavedSearch    REG_DWORD    0x0
+    DisableTabbedBrowsing    REG_DWORD    0x0
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+    !Do not use this registry key    REG_SZ    Use the SHGetFolderPath or SHGetKnownFolderPath function instead
+    AppData    REG_SZ    C:\Users\pigeon\AppData\Roaming
+    Local AppData    REG_SZ    C:\Users\pigeon\AppData\Local
+    My Video    REG_SZ    C:\Users\pigeon\Videos
+    {1B3EA5DC-B587-4786-B4EF-BD1DC332AEAE}    REG_SZ    C:\Users\pigeon\AppData\Roaming\Microsoft\Windows\Libraries
+    My Pictures    REG_SZ    C:\Users\pigeon\Pictures
+    Desktop    REG_SZ    C:\Users\pigeon\Desktop
+    History    REG_SZ    C:\Users\pigeon\AppData\Local\Microsoft\Windows\History
+    NetHood    REG_SZ    C:\Users\pigeon\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+    {56784854-C6CB-462B-8169-88E350ACB882}    REG_SZ    C:\Users\pigeon\Contacts
+    {00BCFC5A-ED94-4E48-96A1-3F6217F21990}    REG_SZ    C:\Users\pigeon\AppData\Local\Microsoft\Windows\RoamingTiles
+    Cookies    REG_SZ    C:\Users\pigeon\AppData\Roaming\Microsoft\Windows\Cookies
+    Favorites    REG_SZ    C:\Users\pigeon\Favorites
+    SendTo    REG_SZ    C:\Users\pigeon\AppData\Roaming\Microsoft\Windows\SendTo
+    Start Menu    REG_SZ    C:\Users\pigeon\AppData\Roaming\Microsoft\Windows\Start Menu
+    My Music    REG_SZ    C:\Users\pigeon\Music
+    Programs    REG_SZ    C:\Users\pigeon\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+    Recent    REG_SZ    C:\Users\pigeon\AppData\Roaming\Microsoft\Windows\Recent
+    CD Burning    REG_SZ    C:\Users\pigeon\AppData\Local\Microsoft\Windows\Burn\Burn
+    PrintHood    REG_SZ    C:\Users\pigeon\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+    {7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}    REG_SZ    C:\Users\pigeon\Searches
+    {374DE290-123F-4565-9164-39C4925E467B}    REG_SZ    C:\Users\pigeon\Downloads
+    {A520A1A4-1780-4FF6-BD18-167343C5AF16}    REG_SZ    C:\Users\pigeon\AppData\LocalLow
+    Startup    REG_SZ    C:\Users\pigeon\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+    Administrative Tools    REG_SZ    C:\Users\pigeon\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+    Personal    REG_SZ    C:\Users\pigeon\Documents
+    {BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}    REG_SZ    C:\Users\pigeon\Links
+    Cache    REG_SZ    C:\Users\pigeon\AppData\Local\Microsoft\Windows\Temporary Internet Files
+    Templates    REG_SZ    C:\Users\pigeon\AppData\Roaming\Microsoft\Windows\Templates
+    {4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}    REG_SZ    C:\Users\pigeon\Saved Games
+    Fonts    REG_SZ    C:\Windows\Fonts
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shutdown
+    CleanShutdown    REG_DWORD    0x0
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StartPage
+    StartMenu_Start_Time    REG_BINARY    9ECA4AE5853BDD01
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Streams
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Streams\Desktop
+    TaskbarWinXP    REG_BINARY    0C000000080000000100000000000000AA4F2868486AD0118C7800C04FD918B400000000400D000000000000280000000000000000000000280000000000000001000000
+    Upgrade    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects2
+    Settings    REG_BINARY    28000000FFFFFFFF02020000030000003E00000028000000000000009303000080070000BB030000
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband
+    FavoritesResolve    REG_BINARY    940200004C0000000114020000000000C000000000000046830080002000000017D6D677833BDD0117D6D677833BDD01364294A5A46ACD019701000000000000010000000000000000000000000000003E0114001F80C827341F105C1042AA032EE45287D6685200310000000000235DC74811005461736B426172003C0008000400EFBE235DC748235DC7482A000000E93901000000010000000000000000000000000000005400610073006B0042006100720000001600D600320097010000F94017A4200046494C4545587E312E4C4E4B0000780008000400EFBE235DC748235DC7482A000000EC3901000000010000000000000000004E0000000000460069006C00650020004500780070006C006F007200650072002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003200320030003600370000001C00420000001D00EFBE02004D006900630072006F0073006F00660074002E00570069006E0064006F00770073002E004500780070006C006F0072006500720000001C000000A40000001C000000010000001C0000003400000000000000A30000001800000003000000FF4A6E981000000057696E646F777300433A5C55736572735C706967656F6E5C417070446174615C526F616D696E675C4D6963726F736F66745C496E7465726E6574204578706C6F7265725C517569636B204C61756E63685C557365722050696E6E65645C5461736B4261725C46696C65204578706C6F7265722E6C6E6B000060000000030000A0580000000000000077696E380000000000000000000000007AC0C45EE6E4AA46B6E1D7625D23C1F3AAAD2EFBC0A7F111BE67080027DD4C4E7AC0C45EE6E4AA46B6E1D7625D23C1F3AAAD2EFBC0A7F111BE67080027DD4C4E00000000440200004C0000000114020000000000C00000000000004683008000200000000DEB1F79863BDD0106015383863BDD010DA56278863BDD01AF0300000000000001000000000000000000000000000000F40014001F80C827341F105C1042AA032EE45287D6685200310000000000235D804B11005461736B426172003C0008000400EFBE235DC748235D804B2A000000E93901000000010000000000000000000000000000005400610073006B00420061007200000016008C003200AF030000235D764B200046697265666F782E6C6E6B00440008000400EFBE235D764B235D814B2A0000009C3C0100000006000000000000000000000000000000460069007200650066006F0078002E006C006E006B0000001A002E0000001D00EFBE0200330030003800300034003600420030004100460034004100330039004300420000001A0000009E0000001C000000010000001C00000034000000000000009D0000001800000003000000FF4A6E981000000057696E646F777300433A5C55736572735C706967656F6E5C417070446174615C526F616D696E675C4D6963726F736F66745C496E7465726E6574204578706C6F7265725C517569636B204C61756E63685C557365722050696E6E65645C5461736B4261725C46697265666F782E6C6E6B000060000000030000A0580000000000000077696E380000000000000000000000007AC0C45EE6E4AA46B6E1D7625D23C1F3D540C99A79A7F111BE6A080027DD4C4E7AC0C45EE6E4AA46B6E1D7625D23C1F3D540C99A79A7F111BE6A080027DD4C4E00000000DF0200004C0000000114020000000000C0000000000000468300800020000000962867BC863BDD01962867BC863BDD0166B42D46066BCD01310800000000000001000000000000000000000000000000840114001F80C827341F105C1042AA032EE45287D6685200310000000000235DB34B11005461736B426172003C0008000400EFBE235DC748235DB34B2A000000E93901000000010000000000000000000000000000005400610073006B00420061007200000016001C01320031080000FA407241200057494E444F577E312E4C4E4B00005A0008000400EFBE235DB34B235DB34B2A000000173E0100000003000000000000000000000000000000570069006E0064006F0077007300200050006F007700650072005300680065006C006C002E006C006E006B0000001C00A60000001D00EFBE02007B00310041004300310034004500370037002D0030003200450037002D0034004500350044002D0042003700340034002D003200450042003100410045003500310039003800420037007D005C00570069006E0064006F007700730050006F007700650072005300680065006C006C005C00760031002E0030005C0070006F007700650072007300680065006C006C002E0065007800650000001C000000A90000001C000000010000001C0000003400000000000000A80000001800000003000000FF4A6E981000000057696E646F777300433A5C55736572735C706967656F6E5C417070446174615C526F616D696E675C4D6963726F736F66745C496E7465726E6574204578706C6F7265725C517569636B204C61756E63685C557365722050696E6E65645C5461736B4261725C57696E646F777320506F7765725368656C6C2E6C6E6B000060000000030000A0580000000000000077696E380000000000000000000000007AC0C45EE6E4AA46B6E1D7625D23C1F30541C99A79A7F111BE6A080027DD4C4E7AC0C45EE6E4AA46B6E1D7625D23C1F30541C99A79A7F111BE6A080027DD4C4E00000000
+    Favorites    REG_BINARY    003E01000014001F80C827341F105C1042AA032EE45287D6685200310000000000235DC74811005461736B426172003C0008000400EFBE235DC748235DC7482A000000E93901000000010000000000000000000000000000005400610073006B0042006100720000001600D600320097010000F94017A4200046494C4545587E312E4C4E4B0000780008000400EFBE235DC748235DC7482A000000EC3901000000010000000000000000004E0000000000460069006C00650020004500780070006C006F007200650072002E006C006E006B00000040007300680065006C006C00330032002E0064006C006C002C002D003200320030003600370000001C00420000001D00EFBE02004D006900630072006F0073006F00660074002E00570069006E0064006F00770073002E004500780070006C006F0072006500720000001C00000000F400000014001F80C827341F105C1042AA032EE45287D6685200310000000000235D804B11005461736B426172003C0008000400EFBE235DC748235D804B2A000000E93901000000010000000000000000000000000000005400610073006B00420061007200000016008C003200AF030000235D764B200046697265666F782E6C6E6B00440008000400EFBE235D764B235D814B2A0000009C3C0100000006000000000000000000000000000000460069007200650066006F0078002E006C006E006B0000001A002E0000001D00EFBE0200330030003800300034003600420030004100460034004100330039004300420000001A000000008401000014001F80C827341F105C1042AA032EE45287D6685200310000000000235DB34B11005461736B426172003C0008000400EFBE235DC748235DB34B2A000000E93901000000010000000000000000000000000000005400610073006B00420061007200000016001C01320031080000FA407241200057494E444F577E312E4C4E4B00005A0008000400EFBE235DB34B235DB34B2A000000173E0100000003000000000000000000000000000000570069006E0064006F0077007300200050006F007700650072005300680065006C006C002E006C006E006B0000001C00A60000001D00EFBE02007B00310041004300310034004500370037002D0030003200450037002D0034004500350044002D0042003700340034002D003200450042003100410045003500310039003800420037007D005C00570069006E0064006F007700730050006F007700650072005300680065006C006C005C00760031002E0030005C0070006F007700650072007300680065006C006C002E0065007800650000001C000000FF
+    FavoritesChanges    REG_DWORD    0xa
+    FavoritesVersion    REG_DWORD    0x2
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+    Desktop    REG_EXPAND_SZ    %USERPROFILE%\Desktop
+    Local AppData    REG_EXPAND_SZ    %USERPROFILE%\AppData\Local
+    Startup    REG_EXPAND_SZ    %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+    Cookies    REG_EXPAND_SZ    %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Cookies
+    SendTo    REG_EXPAND_SZ    %USERPROFILE%\AppData\Roaming\Microsoft\Windows\SendTo
+    Personal    REG_EXPAND_SZ    %USERPROFILE%\Documents
+    Recent    REG_EXPAND_SZ    %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Recent
+    Favorites    REG_EXPAND_SZ    %USERPROFILE%\Favorites
+    My Pictures    REG_EXPAND_SZ    %USERPROFILE%\Pictures
+    Start Menu    REG_EXPAND_SZ    %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu
+    NetHood    REG_EXPAND_SZ    %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+    My Music    REG_EXPAND_SZ    %USERPROFILE%\Music
+    My Video    REG_EXPAND_SZ    %USERPROFILE%\Videos
+    Cache    REG_EXPAND_SZ    %USERPROFILE%\AppData\Local\Microsoft\Windows\Temporary Internet Files
+    Programs    REG_EXPAND_SZ    %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+    History    REG_EXPAND_SZ    %USERPROFILE%\AppData\Local\Microsoft\Windows\History
+    {374DE290-123F-4565-9164-39C4925E467B}    REG_EXPAND_SZ    %USERPROFILE%\Downloads
+    Templates    REG_EXPAND_SZ    %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Templates
+    AppData    REG_EXPAND_SZ    %USERPROFILE%\AppData\Roaming
+    PrintHood    REG_EXPAND_SZ    %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{9E04CAB2-CC14-11DF-BB8C-A2F1DED72085}
+    Version    REG_DWORD    0x5
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{9E04CAB2-CC14-11DF-BB8C-A2F1DED72085}\Count
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{A3D53349-6E61-4557-8FC7-0028EDCEEBF6}
+    Version    REG_DWORD    0x5
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{A3D53349-6E61-4557-8FC7-0028EDCEEBF6}\Count
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{B267E3AD-A825-4A09-82B9-EEC22AA3B847}
+    Version    REG_DWORD    0x5
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{B267E3AD-A825-4A09-82B9-EEC22AA3B847}\Count
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{CAA59E3C-4792-41A5-9909-6A6A8D32490E}
+    Version    REG_DWORD    0x5
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{CAA59E3C-4792-41A5-9909-6A6A8D32490E}\Count
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}
+    Version    REG_DWORD    0x5
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}\Count
+    HRZR_PGYPHNPbhag:pgbe    REG_BINARY    FFFFFFFF000000000000000000000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF000000000000000000000000
+    Zvpebfbsg.Jvaqbjf.Rkcybere    REG_BINARY    00000000000000003200000015650500000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF000000000000000000000000
+    HRZR_PGYFRFFVBA    REG_BINARY    00000000110000006300000085C20C000300000004000000940400004D006900630072006F0073006F00660074002E00420069006E00670057006500610074006800650072005F003800770065006B007900620033006400380062006200770065002100410070007000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000032000000156505004D006900630072006F0073006F00660074002E00570069006E0064006F00770073002E004500780070006C006F007200650072000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000032000000156505004D006900630072006F0073006F00660074002E00570069006E0064006F00770073002E004500780070006C006F00720065007200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    Zvpebfbsg.VagreargRkcybere.Qrsnhyg    REG_BINARY    0000000001000000010000006E1A0000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF90CFE2BF833BDD0100000000
+    {1NP14R77-02R7-4R5Q-O744-2RO1NR5198O7}\JvaqbjfCbjreFuryy\i1.0\cbjrefuryy.rkr    REG_BINARY    00000000020000000900000080960400000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF0048E1BC863BDD0100000000
+    zvpebfbsg.jvaqbjfpbzzhavpngvbafnccf_8jrxlo3q8oojr!Zvpebfbsg.JvaqbjfYvir.Znvy    REG_BINARY    0000000001000000010000001D030000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFB0376F1E843BDD0100000000
+    {1NP14R77-02R7-4R5Q-O744-2RO1NR5198O7}\JJNUbfg.rkr    REG_BINARY    000000000000000009000000E44A0000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF000000000000000000000000
+    Zvpebfbsg.OvatSvanapr_8jrxlo3q8oojr!NccrkSvanapr    REG_BINARY    00000000010000000100000081020000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFD057BE20843BDD0100000000
+    Zvpebfbsg.Ovat_8jrxlo3q8oojr!Zvpebfbsg.Ovat    REG_BINARY    0000000002000000020000003C030000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF80A11124843BDD0100000000
+    Zvpebfbsg.OvatJrngure_8jrxlo3q8oojr!Ncc    REG_BINARY    00000000030000000400000094040000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFE0EA2B74843BDD0100000000
+    Zvpebfbsg.Pnzren_8jrxlo3q8oojr!Zvpebfbsg.Pnzren    REG_BINARY    0000000002000000030000003C030000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFC00D4332843BDD0100000000
+    {6Q809377-6NS0-444O-8957-N3773S02200R}\JvaqbjfNccf\Zvpebfbsg.Pnzren_6.2.8514.0_k64__8jrxlo3q8oojr\jropnz.rkr    REG_BINARY    00000000000000000300000095090000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF000000000000000000000000
+    zvpebfbsg.jvaqbjfpbzzhavpngvbafnccf_8jrxlo3q8oojr!Zvpebfbsg.JvaqbjfYvir.Pung    REG_BINARY    0000000001000000010000000D030000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF90D13029843BDD0100000000
+    zvpebfbsg.jvaqbjfpbzzhavpngvbafnccf_8jrxlo3q8oojr!Zvpebfbsg.JvaqbjfYvir.Pnyraqne    REG_BINARY    0000000001000000010000000D030000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFE0847B2B843BDD0100000000
+    jvaqbjf.vzzrefvirpbagebycnary_pj5a1u2gklrjl!zvpebfbsg.jvaqbjf.vzzrefvirpbagebycnary    REG_BINARY    000000000100000001000000F8030000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFE0FCD82D843BDD0100000000
+    {S38OS404-1Q43-42S2-9305-67QR0O28SP23}\VzzrefvirPbagebyCnary\FlfgrzFrggvatf.rkr    REG_BINARY    00000000000000000100000065110000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF000000000000000000000000
+    Zvpebfbsg.Jvaqbjf.PbagebyCnary    REG_BINARY    000000000000000005000000B2D10100000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF000000000000000000000000
+    Zvpebfbsg.Jvaqbjf.FrggvatfFrnepuNcc    REG_BINARY    000000000000000002000000AF170000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF000000000000000000000000
+    Zvpebfbsg.OvatFcbegf_8jrxlo3q8oojr!NccrkFcbegf    REG_BINARY    0000000001000000010000001D030000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFA040E671843BDD0100000000
+    M:\Sversbk Frghc 115.40.0rfe.rkr    REG_BINARY    00000000010000000000000000000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF80A60970863BDD0100000000
+    \\IObkFie\jva8\Sversbk Frghc 115.40.0rfe.rkr    REG_BINARY    000000000000000001000000E8100000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF000000000000000000000000
+    308046O0NS4N39PO    REG_BINARY    000000000000000003000000822E0000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF000000000000000000000000
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{F2A1CB5A-E3CC-4A2E-AF9D-505A7009D442}
+    Version    REG_DWORD    0x5
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{F2A1CB5A-E3CC-4A2E-AF9D-505A7009D442}\Count
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{F4E57C4B-2036-45F0-A9AB-443BCFE33D9F}
+    Version    REG_DWORD    0x5
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{F4E57C4B-2036-45F0-A9AB-443BCFE33D9F}\Count
+    HRZR_PGYPHNPbhag:pgbe    REG_BINARY    FFFFFFFF000000000000000000000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF000000000000000000000000
+    {9R3995NO-1S9P-4S13-O827-48O24O6P7174}\GnfxOne\Vagrearg Rkcybere.yax    REG_BINARY    00000000010000000000000001000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF90CFE2BF833BDD0100000000
+    HRZR_PGYFRFFVBA    REG_BINARY    000000000F000000000000000F00000003000000000000000300000043003A005C00550073006500720073005C0070006900670065006F006E005C0041007000700044006100740061005C004C006F00630061006C005C004D006900630072006F0073006F00660074005C00570069006E0064006F00770073005C004100700070006C00690063006100740069006F006E002000530068006F007200740063007500740073005C004D006900630072006F0073006F00660074002E00420069006E00670057006500610074006800650072005F003800770065006B007900620033006400380062006200770065005C004100700070002E006C006E006B0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003000000000000000300000043003A005C00550073006500720073005C0070006900670065006F006E005C0041007000700044006100740061005C004C006F00630061006C005C004D006900630072006F0073006F00660074005C00570069006E0064006F00770073005C004100700070006C00690063006100740069006F006E002000530068006F007200740063007500740073005C004D006900630072006F0073006F00660074002E00420069006E00670057006500610074006800650072005F003800770065006B007900620033006400380062006200770065005C004100700070002E006C006E006B0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003000000000000000300000043003A005C00550073006500720073005C0070006900670065006F006E005C0041007000700044006100740061005C004C006F00630061006C005C004D006900630072006F0073006F00660074005C00570069006E0064006F00770073005C004100700070006C00690063006100740069006F006E002000530068006F007200740063007500740073005C004D006900630072006F0073006F00660074002E00420069006E00670057006500610074006800650072005F003800770065006B007900620033006400380062006200770065005C004100700070002E006C006E006B00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    {0139Q44R-6NSR-49S2-8690-3QNSPNR6SSO8}\Flfgrz Gbbyf\Jvaqbjf CbjreFuryy.yax    REG_BINARY    00000000020000000000000002000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF0048E1BC863BDD0100000000
+    P:\Hfref\cvtrba\NccQngn\Ybpny\Zvpebfbsg\Jvaqbjf\Nccyvpngvba Fubegphgf\zvpebfbsg.jvaqbjfpbzzhavpngvbafnccf_8jrxlo3q8oojr\Zvpebfbsg.JvaqbjfYvir.Znvy.yax    REG_BINARY    00000000010000000000000001000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFB0376F1E843BDD0100000000
+    P:\Hfref\cvtrba\NccQngn\Ybpny\Zvpebfbsg\Jvaqbjf\Nccyvpngvba Fubegphgf\Zvpebfbsg.OvatSvanapr_8jrxlo3q8oojr\NccrkSvanapr.yax    REG_BINARY    00000000010000000000000001000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFD057BE20843BDD0100000000
+    P:\Hfref\cvtrba\NccQngn\Ybpny\Zvpebfbsg\Jvaqbjf\Nccyvpngvba Fubegphgf\Zvpebfbsg.Ovat_8jrxlo3q8oojr\Zvpebfbsg.Ovat.yax    REG_BINARY    00000000020000000000000002000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF80A11124843BDD0100000000
+    P:\Hfref\cvtrba\NccQngn\Ybpny\Zvpebfbsg\Jvaqbjf\Nccyvpngvba Fubegphgf\Zvpebfbsg.OvatJrngure_8jrxlo3q8oojr\Ncc.yax    REG_BINARY    00000000030000000000000003000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFE0EA2B74843BDD0100000000
+    P:\Hfref\cvtrba\NccQngn\Ybpny\Zvpebfbsg\Jvaqbjf\Nccyvpngvba Fubegphgf\Zvpebfbsg.Pnzren_8jrxlo3q8oojr\Zvpebfbsg.Pnzren.yax    REG_BINARY    00000000020000000000000002000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFC00D4332843BDD0100000000
+    P:\Hfref\cvtrba\NccQngn\Ybpny\Zvpebfbsg\Jvaqbjf\Nccyvpngvba Fubegphgf\zvpebfbsg.jvaqbjfpbzzhavpngvbafnccf_8jrxlo3q8oojr\Zvpebfbsg.JvaqbjfYvir.Pung.yax    REG_BINARY    00000000010000000000000001000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFF90D13029843BDD0100000000
+    P:\Hfref\cvtrba\NccQngn\Ybpny\Zvpebfbsg\Jvaqbjf\Nccyvpngvba Fubegphgf\zvpebfbsg.jvaqbjfpbzzhavpngvbafnccf_8jrxlo3q8oojr\Zvpebfbsg.JvaqbjfYvir.Pnyraqne.yax    REG_BINARY    00000000010000000000000001000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFE0847B2B843BDD0100000000
+    P:\Hfref\cvtrba\NccQngn\Ybpny\Zvpebfbsg\Jvaqbjf\Nccyvpngvba Fubegphgf\Zvpebfbsg.OvatFcbegf_8jrxlo3q8oojr\NccrkFcbegf.yax    REG_BINARY    00000000010000000000000001000000000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BFFFFFFFFFA040E671843BDD0100000000
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{FA99DFC7-6AC2-453A-A5E2-5E2AFF4507BD}
+    Version    REG_DWORD    0x5
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{FA99DFC7-6AC2-453A-A5E2-5E2AFF4507BD}\Count
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\AnimateMinMax
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ComboBoxAnimation
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ControlAnimations
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\CursorShadow
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DragFullWindows
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DropShadow
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DWMAeroPeekEnabled
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DWMEnabled
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DWMSaveThumbnailEnabled
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\FontSmoothing
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ListBoxSmoothScrolling
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ListviewAlphaSelect
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ListviewShadow
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\MenuAnimation
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\SelectionFade
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\TaskbarAnimations
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\Themes
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ThumbnailsOrIcon
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\TooltipAnimation
+    DefaultApplied    REG_DWORD    0x1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers\Colors
+    (Predefinito)    REG_BINARY    00000000FFFFFF00DCDCDC0078787800464646000A3B76004395D10099D9EA000076A3000D686B0000A99D007ACCC80082CA9C0074A40200C4DF9B0084871C00
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers\Images
+    ID3    REG_SZ    AZAFA8BUg/E0gouOpBhoYjAArADMdmBAvMkOcBAAAAAAAAAAAAAAAAAAAAAAAAgUAEDAAAAAAMSX8dEEAcVauR2b3NHA8AACAQAAv7r+ABMLj0FfHpCAAAAYMAAAAAQAAAAAAAAAAAAAAAAAAAAAXBQaA4GAkBwbAcHAzBAAAYBAGBQMAAAAAAg+ABaQQAwVlJGA0AACAQAAv7r+ABaQ6DEoBpCAAAQtZAAAAAQAAAAAAAAAAAAAAAAAAAAAXBQZAIGAAAgEAgFAxAAAAAAA6DkRPBBAXFETMBVQ+FDAAAEAIAABA8uv6DEoBpPQG9kKAAAA3mBAAAAABAAAAAAAAAAAAAAAAAAAAcFAhBAbAwGAwBQYAAHAlBgcAAAAYAQIFEDAAAAAAoPQG9UEAQFal1WZyAAAICACAQAAv7r+AZ0T6DkRPpCAAAQuZAAAAAQAAAAAAAAAAAAA4AAAAAAAUBAaAUGAtBQZAIDAAAAQAMEA6AAXAcFApBgbAQGAvBwdAMHAcBwUAkHAzBAdAUGAtBwMAIDAcBAdAgGAlBQbAUGA1BQaA4CAkBAbAwGAsAQLAIDAxAQMAIDAAAgFAMIBAAAEA8uvBAAAAEHBAAQbEAAAxMFUTVQ1NXNnusBETeJCAsCL57aIAAAAQAAAAAwSAUGA5BgOAAFAJBARAAAATAAAAQGAAAQeDAAAUAAAAAwQA8GAuBAZAkGA0BQaA8GAuBAAAIEAAAgHAAAAwBgcA8GAwBANAIDA5AANAkDA2AwNAIDA5AQNAAAAAAwLDAAAT04bR4BEl+EhU/vg5hTG1AAAAAQAAAAALAAAAkIXxL1FaFOS72sRjiPn8JMAAAAAgr1zBp19GgUvHm1xZTij5SGAAAwCAAAAfAgBAAAAqAgLAoGAwBwZAAAAAAQAAAAAAAAAJyV8SdhWhj0uNb0o4zJfCDAAAAA4a9cQadvBI17hZdc2k4YukBAAAsAAAAwHAcAAAAgKA4CAqBAcAUGAnBAAAAAABAAAAAAAAkIXxL1FaFOS72sRjiPn8JMAAAAAgr1zBp19GgUvHm1xZTij5SGAAAwCAAAAfAgBAAAAqAgLAIGAtBAcAAAAAAQAAAAAAAAAJyV8SdhWhj0uNb0o4zJfCDAAAAA4a9cQadvBI17hZdc2k4YukBAAAsAAAAwHAYAAAAgKA4CAkBQaAIGAAAAAAEAAAAAAAAQicFvUXoV4ItbzGNK+cynwAAAAAAuWPHkW3bAS9eYWHnNJOmLZAAAALAAAA8BAGAAAAoCAuAAcA4GAnBAAAAAABAAAAAAAAkIXxL1FaFOS72sRjiPn8JMAAAAAgr1zBp19GgUvHm1xZTij5SGAAAwCAAAAfAgBAAAAqAgLAcGApBgZAAAAAAQAAAAAAAAAJyV8SdhWhj0uNb0o4zJfCDAAAAA4a9cQadvBI17hZdc2k4YukBAAAsAAAAwHAcAAAAgKA4CAqBgZAkGAmBAAAAAABAAAAAAAAkIXxL1FaFOS72sRjiPn8JMAAAAAgr1zBp19GgUvHm1xZTij5SGAAAwCAAAAfAgBAAAAqAgLAoGAwBQZAAAAAAQAAAAAAAAAJyV8SdhWhj0uNb0o4zJfCDAAAAA4a9cQadvBI17hZdc2k4YukBAAAsAAAAwHAYAAAAgKA4CA0BQaAYGAAAAAAEAAAAAAAAQicFvUXoV4ItbzGNK+cynwAAAAAAuWPHkW3bAS9eYWHnNJOmLZAAAALAAAA8BAHAAAAoCAuAAdAkGAmBgZAAAAAAQAAAAAAAAAJyV8SdhWhj0uNb0o4zJfCDAAAAA4a9cQadvBI17hZdc2k4YukBAAAsAAAAwHAYAAAAgKA4CA3BAZAAHAAAAAAEAAAAAAAAAA1BAAAQBAAAAALBQZAkHA6AgRA0EAUBQSAQEAAAACAAAAOBAAAsHA0AQMAMEAGBQNAEEAFBAMA0CAGBwNAUDABBQLAQDA4AAMAYDAtAgQAQEA4AwNA0CA1AQOAMEA3AARAkDAyAANAgDAFBgQAkDA9BAAAAAAnAAAAoAAAAAAOBQYA0GAlBAAAgAAAAADAAAAGBQaA8GAyBQaAAAAbAAAAoAAAAAAUBQeAAHAlBAAAMBAAAAAAAAAAAAAAAAAAAgFAAAA
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\DesktopShown
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\DesktopSwitchCompleted
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\ImmersiveLauncherGridSQM
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\LogonSoundHasBeenPlayed
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\RunStuffHasBeenRun
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\StartupHasBeenRun
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\WHCIconStartup
+
+
+===== THEMES REGISTRY =====
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes
+    ThemeChangesMousePointers    REG_DWORD    0x1
+    LastHighContrastTheme    REG_EXPAND_SZ    %SystemRoot%\resources\Ease of Access Themes\hcblack.theme
+    ThemeChangesDesktopIcons    REG_DWORD    0x1
+    InstallVisualStyleSize    REG_SZ    NormalSize
+    InstallTheme    REG_EXPAND_SZ    %SystemRoot%\resources\Themes\aero.theme
+    InstallVisualStyleColor    REG_SZ    NormalColor
+    InstallVisualStyle    REG_EXPAND_SZ    %ResourceDir%\themes\Aero\Aero.msstyles
+    CurrentTheme    REG_SZ    C:\Users\pigeon\AppData\Local\Microsoft\Windows\Themes\Custom.theme
+    SetupVersion    REG_SZ    10
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\HighContrast
+    Pre-High Contrast Scheme    REG_SZ    C:\Users\pigeon\AppData\Local\Microsoft\Windows\Themes\Custom.theme
+
+
+===== WINLOGON =====
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
+    Userinit    REG_SZ    C:\Windows\system32\userinit.exe,
+    LegalNoticeText    REG_SZ    
+    Shell    REG_SZ    explorer.exe
+    LegalNoticeCaption    REG_SZ    
+    DebugServerCommand    REG_SZ    no
+    ForceUnlockLogon    REG_DWORD    0x0
+    ReportBootOk    REG_SZ    1
+    VMApplet    REG_SZ    SystemPropertiesPerformance.exe /pagefile
+    AutoRestartShell    REG_DWORD    0x1
+    PowerdownAfterShutdown    REG_SZ    0
+    ShutdownWithoutLogon    REG_SZ    0
+    Background    REG_SZ    0 0 0
+    PasswordExpiryWarning    REG_DWORD    0x5
+    CachedLogonsCount    REG_SZ    10
+    WinStationsDisabled    REG_SZ    0
+    PreCreateKnownFolders    REG_SZ    {A520A1A4-1780-4FF6-BD18-167343C5AF16}
+    scremoveoption    REG_SZ    0
+    DisableCAD    REG_DWORD    0x1
+    ShutdownFlags    REG_DWORD    0x22b
+    EnableFirstLogonAnimation    REG_DWORD    0x1
+    AutoLogonSID    REG_SZ    S-1-5-21-3492299243-681809220-771522443-1001
+    LastUsedUsername    REG_SZ    pigeon
+    DefaultDomainName    REG_SZ    
+    DefaultUserName    REG_SZ    pigeon
+    AutoAdminLogon    REG_SZ    1
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\AlternateShells
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\AutoLogonChecked
+
+===== END =====
