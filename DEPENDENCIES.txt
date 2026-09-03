@@ -1,0 +1,265 @@
+===== EXPLORER DEPENDENCY LAB =====
+===== EXPLORER INFO =====
+
+
+Comments           : 
+CompanyName        : Microsoft Corporation
+FileBuildPart      : 9200
+FileDescription    : Esplora risorse
+FileMajorPart      : 6
+FileMinorPart      : 2
+FileName           : C:\Windows\explorer.exe
+FilePrivatePart    : 16384
+FileVersion        : 6.2.9200.16384 (win8_rtm.120725-1247)
+InternalName       : explorer
+IsDebug            : False
+IsPatched          : False
+IsPrivateBuild     : False
+IsPreRelease       : False
+IsSpecialBuild     : False
+Language           : Italiano (Italia)
+LegalCopyright     : © Microsoft Corporation. Tutti i diritti riservati.
+LegalTrademarks    : 
+OriginalFilename   : EXPLORER.EXE.MUI
+PrivateBuild       : 
+ProductBuildPart   : 9200
+ProductMajorPart   : 6
+ProductMinorPart   : 2
+ProductName        : Sistema operativo Microsoft® Windows®
+ProductPrivatePart : 16384
+ProductVersion     : 6.2.9200.16384
+SpecialBuild       : 
+
+
+
+
+===== SYSTEM32 SHELL DLLS =====
+
+Name                Length Version                               
+----                ------ -------                               
+advapi32.dll        894464 6.2.9200.16384 (win8_rtm.120725-1247) 
+comctl32.dll        652288 5.82 (win8_rtm.120725-1247)           
+ExplorerFrame.dll  2978304 6.2.9200.16384 (win8_rtm.120725-1247) 
+imageres.dll      67967488 6.2.9200.16384 (win8_rtm.120725-1247) 
+kernel32.dll       1256960 6.2.9200.16384 (win8_rtm.120725-1247) 
+ole32.dll          1566440 6.2.9200.16384 (win8_rtm.120725-1247) 
+oleaut32.dll        779776 6.2.9200.16384                        
+propsys.dll        1400832 7.00.9200.16384 (win8_rtm.120725-1247)
+shell32.dll       19779584 6.2.9200.16384 (win8_rtm.120725-1247) 
+shellstyle.dll      517120 6.2.9200.16384 (win8_rtm.120725-1247) 
+shlwapi.dll         309760 6.2.9200.16384 (win8_rtm.120725-1247) 
+user32.dll         1342464 6.2.9200.16384 (win8_rtm.120725-1247) 
+uxtheme.dll         908288 6.2.9200.16384 (win8_rtm.120725-1247) 
+
+
+
+===== LOADED MODULES =====
+
+ModuleName                                 FileName                                                                    
+----------                                 --------                                                                    
+acppage.dll                                C:\Windows\system32\acppage.dll                                             
+Actioncenter.dll                           C:\Windows\System32\Actioncenter.dll                                        
+actxprxy.dll                               C:\Windows\System32\actxprxy.dll                                            
+advapi32.dll                               C:\Windows\SYSTEM32\advapi32.dll                                            
+AltTab.dll                                 C:\Windows\System32\AltTab.dll                                              
+apphelp.dll                                C:\Windows\SYSTEM32\apphelp.dll                                             
+AUDIOSES.DLL                               C:\Windows\SYSTEM32\AUDIOSES.DLL                                            
+authui.dll                                 C:\Windows\system32\authui.dll                                              
+AVRT.dll                                   C:\Windows\SYSTEM32\AVRT.dll                                                
+BatMeter.dll                               C:\Windows\system32\BatMeter.dll                                            
+Bcp47Langs.dll                             C:\Windows\SYSTEM32\Bcp47Langs.dll                                          
+bcrypt.dll                                 C:\Windows\SYSTEM32\bcrypt.dll                                              
+bcryptPrimitives.dll                       C:\Windows\SYSTEM32\bcryptPrimitives.dll                                    
+BluetoothApis.dll                          C:\Windows\System32\BluetoothApis.dll                                       
+bthprops.cpl                               C:\Windows\System32\bthprops.cpl                                            
+cfgmgr32.dll                               C:\Windows\SYSTEM32\cfgmgr32.dll                                            
+clbcatq.dll                                C:\Windows\SYSTEM32\clbcatq.dll                                             
+combase.dll                                C:\Windows\SYSTEM32\combase.dll                                             
+Comctl32.dll                               C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1d...
+CRYPT32.dll                                C:\Windows\system32\CRYPT32.dll                                             
+CRYPTBASE.dll                              C:\Windows\SYSTEM32\CRYPTBASE.dll                                           
+cryptnet.dll                               C:\Windows\SYSTEM32\cryptnet.dll                                            
+CRYPTSP.dll                                C:\Windows\SYSTEM32\CRYPTSP.dll                                             
+CSCAPI.dll                                 C:\Windows\SYSTEM32\CSCAPI.dll                                              
+CSCDLL.dll                                 C:\Windows\System32\CSCDLL.dll                                              
+cscobj.dll                                 C:\Windows\System32\cscobj.dll                                              
+cscui.dll                                  C:\Windows\System32\cscui.dll                                               
+d3d10warp.dll                              C:\Windows\SYSTEM32\d3d10warp.dll                                           
+d3d11.dll                                  C:\Windows\SYSTEM32\d3d11.dll                                               
+davclnt.dll                                C:\Windows\System32\davclnt.dll                                             
+DAVHLPR.dll                                C:\Windows\System32\DAVHLPR.dll                                             
+dcomp.dll                                  C:\Windows\SYSTEM32\dcomp.dll                                               
+DevDispItemProvider.dll                    C:\Windows\System32\DevDispItemProvider.dll                                 
+DeviceCenter.dll                           C:\Windows\system32\DeviceCenter.dll                                        
+DEVOBJ.dll                                 C:\Windows\system32\DEVOBJ.dll                                              
+DEVRTL.dll                                 C:\Windows\SYSTEM32\DEVRTL.dll                                              
+dhcpcsvc.DLL                               C:\Windows\SYSTEM32\dhcpcsvc.DLL                                            
+dhcpcsvc6.DLL                              C:\Windows\SYSTEM32\dhcpcsvc6.DLL                                           
+dlnashext.dll                              C:\Windows\System32\dlnashext.dll                                           
+DNSAPI.dll                                 C:\Windows\SYSTEM32\DNSAPI.dll                                              
+drprov.dll                                 C:\Windows\System32\drprov.dll                                              
+dskquoui.dll                               C:\Windows\System32\dskquoui.dll                                            
+DUI70.dll                                  C:\Windows\SYSTEM32\DUI70.dll                                               
+DUser.dll                                  C:\Windows\SYSTEM32\DUser.dll                                               
+dwmapi.dll                                 C:\Windows\SYSTEM32\dwmapi.dll                                              
+dwrite.dll                                 C:\Windows\system32\dwrite.dll                                              
+dxgi.dll                                   C:\Windows\SYSTEM32\dxgi.dll                                                
+dxp.dll                                    C:\Windows\system32\dxp.dll                                                 
+EhStorAPI.dll                              C:\Windows\System32\EhStorAPI.dll                                           
+EhStorShell.dll                            C:\Windows\System32\EhStorShell.dll                                         
+es.dll                                     C:\Windows\system32\es.dll                                                  
+Explorer.EXE                               C:\Windows\Explorer.EXE                                                     
+explorerframe.dll                          C:\Windows\system32\explorerframe.dll                                       
+framedynos.dll                             C:\Windows\System32\framedynos.dll                                          
+fwpuclnt.dll                               C:\Windows\System32\fwpuclnt.dll                                            
+GDI32.dll                                  C:\Windows\system32\GDI32.dll                                               
+gdiplus.dll                                C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.92...
+gpapi.dll                                  C:\Windows\SYSTEM32\gpapi.dll                                               
+hcproviders.dll                            C:\Windows\System32\hcproviders.dll                                         
+hgcpl.dll                                  C:\Windows\System32\hgcpl.dll                                               
+HID.DLL                                    C:\Windows\SYSTEM32\HID.DLL                                                 
+IDStore.dll                                C:\Windows\System32\IDStore.dll                                             
+ieframe.dll                                C:\Windows\System32\ieframe.dll                                             
+ieproxy.dll                                C:\Program Files\Internet Explorer\ieproxy.dll                              
+iertutil.dll                               C:\Windows\system32\iertutil.dll                                            
+imagehlp.dll                               C:\Windows\system32\imagehlp.dll                                            
+imapi2.dll                                 C:\Windows\System32\imapi2.dll                                              
+IMM32.DLL                                  C:\Windows\system32\IMM32.DLL                                               
+InputSwitch.dll                            C:\Windows\System32\InputSwitch.dll                                         
+IPHLPAPI.DLL                               C:\Windows\SYSTEM32\IPHLPAPI.DLL                                            
+KERNEL32.DLL                               C:\Windows\system32\KERNEL32.DLL                                            
+KERNELBASE.dll                             C:\Windows\system32\KERNELBASE.dll                                          
+ksuser.dll                                 C:\Windows\SYSTEM32\ksuser.dll                                              
+LINKINFO.dll                               C:\Windows\SYSTEM32\LINKINFO.dll                                            
+midimap.dll                                C:\Windows\SYSTEM32\midimap.dll                                             
+MMDevApi.dll                               C:\Windows\System32\MMDevApi.dll                                            
+MPR.dll                                    C:\Windows\SYSTEM32\MPR.dll                                                 
+MrmCoreR.dll                               C:\Windows\System32\MrmCoreR.dll                                            
+MSACM32.dll                                C:\Windows\SYSTEM32\MSACM32.dll                                             
+msacm32.drv                                C:\Windows\SYSTEM32\msacm32.drv                                             
+MSASN1.dll                                 C:\Windows\system32\MSASN1.dll                                              
+MSCTF.dll                                  C:\Windows\system32\MSCTF.dll                                               
+MsftEdit.dll                               C:\Windows\SYSTEM32\MsftEdit.dll                                            
+msi.dll                                    C:\Windows\system32\msi.dll                                                 
+mssprxy.dll                                C:\Windows\system32\mssprxy.dll                                             
+msvcrt.dll                                 C:\Windows\system32\msvcrt.dll                                              
+mswsock.dll                                C:\Windows\system32\mswsock.dll                                             
+msxml6.dll                                 C:\Windows\System32\msxml6.dll                                              
+NaturalLanguage6.dll                       C:\Windows\System32\NaturalLanguage6.dll                                    
+NcaApi.dll                                 C:\Windows\System32\NcaApi.dll                                              
+ncrypt.dll                                 C:\Windows\SYSTEM32\ncrypt.dll                                              
+netjoin.dll                                C:\Windows\SYSTEM32\netjoin.dll                                             
+netprofm.dll                               C:\Windows\System32\netprofm.dll                                            
+netutils.dll                               C:\Windows\SYSTEM32\netutils.dll                                            
+NetworkExplorer.dll                        C:\Windows\system32\NetworkExplorer.dll                                     
+NetworkStatus.dll                          C:\Windows\system32\NetworkStatus.dll                                       
+NInput.dll                                 C:\Windows\SYSTEM32\NInput.dll                                              
+NLAapi.dll                                 C:\Windows\system32\NLAapi.dll                                              
+NLSData0009.dll                            C:\Windows\System32\NLSData0009.dll                                         
+NLSData0010.dll                            C:\Windows\System32\NLSData0010.dll                                         
+NLSLexicons0009.dll                        C:\Windows\System32\NLSLexicons0009.dll                                     
+NLSLexicons0010.dll                        C:\Windows\System32\NLSLexicons0010.dll                                     
+npmproxy.dll                               C:\Windows\System32\npmproxy.dll                                            
+NSI.dll                                    C:\Windows\system32\NSI.dll                                                 
+NTASN1.dll                                 C:\Windows\SYSTEM32\NTASN1.dll                                              
+ntdll.dll                                  C:\Windows\SYSTEM32\ntdll.dll                                               
+ntlanman.dll                               C:\Windows\System32\ntlanman.dll                                            
+ntmarta.dll                                C:\Windows\SYSTEM32\ntmarta.dll                                             
+ntshrui.dll                                C:\Windows\SYSTEM32\ntshrui.dll                                             
+ole32.dll                                  C:\Windows\system32\ole32.dll                                               
+oleacc.dll                                 C:\Windows\System32\oleacc.dll                                              
+OLEAUT32.dll                               C:\Windows\system32\OLEAUT32.dll                                            
+pcacli.dll                                 C:\Windows\SYSTEM32\pcacli.dll                                              
+PhotoMetadataHandler.dll                   C:\Windows\system32\PhotoMetadataHandler.dll                                
+pnidui.dll                                 C:\Windows\System32\pnidui.dll                                              
+PortableDeviceApi.dll                      C:\Windows\System32\PortableDeviceApi.dll                                   
+PortableDeviceTypes.dll                    C:\Windows\System32\PortableDeviceTypes.dll                                 
+powrprof.dll                               C:\Windows\SYSTEM32\powrprof.dll                                            
+prnfldr.dll                                C:\Windows\system32\prnfldr.dll                                             
+profapi.dll                                C:\Windows\SYSTEM32\profapi.dll                                             
+PROPSYS.dll                                C:\Windows\SYSTEM32\PROPSYS.dll                                             
+provsvc.dll                                C:\Windows\System32\provsvc.dll                                             
+rasadhlp.dll                               C:\Windows\System32\rasadhlp.dll                                            
+RPCRT4.dll                                 C:\Windows\system32\RPCRT4.dll                                              
+rsaenh.dll                                 C:\Windows\system32\rsaenh.dll                                              
+samcli.dll                                 C:\Windows\SYSTEM32\samcli.dll                                              
+SAMLIB.dll                                 C:\Windows\SYSTEM32\SAMLIB.dll                                              
+SearchFolder.dll                           C:\Windows\system32\SearchFolder.dll                                        
+sechost.dll                                C:\Windows\SYSTEM32\sechost.dll                                             
+Secur32.dll                                C:\Windows\SYSTEM32\Secur32.dll                                             
+SETUPAPI.dll                               C:\Windows\system32\SETUPAPI.dll                                            
+sfc.dll                                    C:\Windows\system32\sfc.dll                                                 
+sfc_os.dll                                 C:\Windows\System32\sfc_os.dll                                              
+SHCORE.dll                                 C:\Windows\SYSTEM32\SHCORE.dll                                              
+SHDOCVW.dll                                C:\Windows\system32\SHDOCVW.dll                                             
+SHELL32.dll                                C:\Windows\system32\SHELL32.dll                                             
+SHLWAPI.dll                                C:\Windows\system32\SHLWAPI.dll                                             
+slc.dll                                    C:\Windows\SYSTEM32\slc.dll                                                 
+SndVolSSO.DLL                              C:\Windows\SYSTEM32\SndVolSSO.DLL                                           
+sppc.dll                                   C:\Windows\SYSTEM32\sppc.dll                                                
+SqmApi.dll                                 C:\Program Files\Windows Portable Devices\SqmApi.dll                        
+srchadmin.dll                              C:\Windows\System32\srchadmin.dll                                           
+srvcli.dll                                 C:\Windows\SYSTEM32\srvcli.dll                                              
+SspiCli.dll                                C:\Windows\SYSTEM32\SspiCli.dll                                             
+stobject.dll                               C:\Windows\system32\stobject.dll                                            
+StructuredQuery.dll                        C:\Windows\System32\StructuredQuery.dll                                     
+sxs.dll                                    C:\Windows\SYSTEM32\sxs.dll                                                 
+SyncCenter.dll                             C:\Windows\System32\SyncCenter.dll                                          
+SYNCENG.dll                                C:\Windows\system32\SYNCENG.dll                                             
+Syncreg.dll                                C:\Windows\system32\Syncreg.dll                                             
+syncui.dll                                 C:\Windows\system32\syncui.dll                                              
+thumbcache.dll                             C:\Windows\System32\thumbcache.dll                                          
+tiptsf.dll                                 C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll               
+tquery.dll                                 C:\Windows\system32\tquery.dll                                              
+twext.dll                                  C:\Windows\system32\twext.dll                                               
+twinapi.dll                                C:\Windows\System32\twinapi.dll                                             
+twinui.dll                                 C:\Windows\System32\twinui.dll                                              
+UIAnimation.dll                            C:\Windows\System32\UIAnimation.dll                                         
+UIAutomationCore.dll                       C:\Windows\SYSTEM32\UIAutomationCore.dll                                    
+UIRibbonRes.dll                            C:\Windows\SYSTEM32\UIRibbonRes.dll                                         
+urlmon.dll                                 C:\Windows\system32\urlmon.dll                                              
+USER32.dll                                 C:\Windows\system32\USER32.dll                                              
+USERENV.dll                                C:\Windows\SYSTEM32\USERENV.dll                                             
+UxTheme.dll                                C:\Windows\SYSTEM32\UxTheme.dll                                             
+VBoxMRXNP.dll                              C:\Windows\system32\VBoxMRXNP.dll                                           
+VERSION.dll                                C:\Windows\System32\VERSION.dll                                             
+wdmaud.drv                                 C:\Windows\SYSTEM32\wdmaud.drv                                              
+webio.dll                                  C:\Windows\SYSTEM32\webio.dll                                               
+wer.dll                                    C:\Windows\System32\wer.dll                                                 
+werconcpl.dll                              C:\Windows\System32\werconcpl.dll                                           
+wercplsupport.dll                          C:\Windows\System32\wercplsupport.dll                                       
+wevtapi.dll                                C:\Windows\System32\wevtapi.dll                                             
+WINBRAND.dll                               C:\Windows\SYSTEM32\WINBRAND.dll                                            
+Windows.Globalization.dll                  C:\Windows\System32\Windows.Globalization.dll                               
+windows.globalization.fontgroups.dll       C:\Windows\SYSTEM32\windows.globalization.fontgroups.dll                    
+windows.immersiveshell.serviceprovider.dll C:\Windows\System32\windows.immersiveshell.serviceprovider.dll              
+Windows.Media.Streaming.dll                C:\Windows\System32\Windows.Media.Streaming.dll                             
+Windows.Networking.Connectivity.dll        C:\Windows\System32\Windows.Networking.Connectivity.dll                     
+Windows.UI.Immersive.dll                   C:\Windows\System32\Windows.UI.Immersive.dll                                
+WindowsCodecs.dll                          C:\Windows\SYSTEM32\WindowsCodecs.dll                                       
+winhttp.dll                                C:\Windows\SYSTEM32\winhttp.dll                                             
+WININET.dll                                C:\Windows\system32\WININET.dll                                             
+WINMM.dll                                  C:\Windows\SYSTEM32\WINMM.dll                                               
+WINMMBASE.dll                              C:\Windows\SYSTEM32\WINMMBASE.dll                                           
+WINNSI.DLL                                 C:\Windows\SYSTEM32\WINNSI.DLL                                              
+WINSPOOL.DRV                               C:\Windows\system32\WINSPOOL.DRV                                            
+WINSTA.dll                                 C:\Windows\SYSTEM32\WINSTA.dll                                              
+WINTRUST.dll                               C:\Windows\system32\WINTRUST.dll                                            
+WinTypes.dll                               C:\Windows\System32\WinTypes.dll                                            
+wkscli.dll                                 C:\Windows\SYSTEM32\wkscli.dll                                              
+wlanapi.dll                                C:\Windows\SYSTEM32\wlanapi.dll                                             
+WLDAP32.dll                                C:\Windows\system32\WLDAP32.dll                                             
+wlidprov.dll                               C:\Windows\System32\wlidprov.dll                                            
+wpdshserviceobj.dll                        C:\Windows\system32\wpdshserviceobj.dll                                     
+wpncore.dll                                C:\Windows\System32\wpncore.dll                                             
+WS2_32.dll                                 C:\Windows\system32\WS2_32.dll                                              
+WSCAPI.dll                                 C:\Windows\System32\WSCAPI.dll                                              
+wscinterop.dll                             C:\Windows\System32\wscinterop.dll                                          
+wscui.cpl                                  C:\Windows\System32\wscui.cpl                                               
+WTSAPI32.dll                               C:\Windows\SYSTEM32\WTSAPI32.dll                                            
+wwapi.dll                                  C:\Windows\SYSTEM32\wwapi.dll                                               
+XmlLite.dll                                C:\Windows\System32\XmlLite.dll                                             
+
+
+
+===== END =====
